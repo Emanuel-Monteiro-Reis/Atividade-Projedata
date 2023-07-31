@@ -1,0 +1,88 @@
+--------------------------------------------------
+3.3 – Imprimir todos os funcionários com todas suas informações:
+Nome|Data Nascimento|Salário|Função
+Maria|18/10/2000|2.009,44|Operador
+Caio|02/05/1961|9.836,14|Coordenador
+Miguel|14/10/1988|19.119,88|Diretor
+Alice|05/01/1995|2.234,68|Recepcionista
+Heitor|19/11/1999|1.582,72|Operador
+Arthur|31/03/1993|4.071,84|Contador
+Laura|08/07/1994|3.017,45|Gerente
+Heloísa|24/05/2003|1.606,85|Eletricista
+Helena|02/09/1996|2.799,93|Gerente
+--------------------------------------------------
+3.4 - Impressão de novos valores atualizados (10% AUMENTO):
+--------------------------------------------------
+Nome|Data Nascimento|Salário|Função
+Maria|18/10/2000|2.210,38|Operador
+Caio|02/05/1961|10.819,75|Coordenador
+Miguel|14/10/1988|21.031,87|Diretor
+Alice|05/01/1995|2.458,15|Recepcionista
+Heitor|19/11/1999|1.740,99|Operador
+Arthur|31/03/1993|4.479,02|Contador
+Laura|08/07/1994|3.319,19|Gerente
+Heloísa|24/05/2003|1.767,53|Eletricista
+Helena|02/09/1996|3.079,92|Gerente
+--------------------------------------------------
+3.6 - Impressão de novos valores atualizados (MAP agrupando por funcao):
+--------------------------------------------------
+Função|Nome
+Operador|Maria
+Operador|Heitor
+Recepcionista|Alice
+Eletricista|Heloísa
+Diretor|Miguel
+Gerente|Laura
+Gerente|Helena
+Coordenador|Caio
+Contador|Arthur
+--------------------------------------------------
+3.8 - Impressão de funcionários que fazem aniversário no mês 10 e 12:
+--------------------------------------------------
+Função|Nome|Data aniversário
+Operador|Maria|18/10/2000
+Diretor|Miguel|14/10/1988
+--------------------------------------------------
+3.9 - Imprimir o funcionário com a maior idade, exibir os atributos: nome e idade:
+--------------------------------------------------
+Nome|Idade
+Maria|23
+Heitor|24
+Alice|28
+Heloísa|20
+Miguel|35
+Laura|29
+Helena|27
+Caio|62
+Arthur|30
+--------------------------------------------------
+3.10 - Imprimir a lista de funcionários por ordem alfabética:
+--------------------------------------------------
+Nome
+Alice
+Arthur
+Caio
+Heitor
+Helena
+Heloísa
+Laura
+Maria
+Miguel
+--------------------------------------------------
+3.11 - Imprimir o total dos salários dos funcionários:
+--------------------------------------------------
+Salário total
+50.906,82
+--------------------------------------------------
+3.12 - Imprimir quantos salários mínimos ganha cada funcionário, considerando que o salário mínimo é R$1212.00:
+--------------------------------------------------
+Função|Nome|Salário|Quantidade de salários mínimos
+Recepcionista|Alice|2.458,15|2,03
+Contador|Arthur|4.479,02|3,70
+Coordenador|Caio|10.819,75|8,93
+Operador|Heitor|1.740,99|1,44
+Gerente|Helena|3.079,92|2,54
+Eletricista|Heloísa|1.767,53|1,46
+Gerente|Laura|3.319,19|2,74
+Operador|Maria|2.210,38|1,82
+Diretor|Miguel|21.031,87|17,35
